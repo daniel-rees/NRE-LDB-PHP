@@ -1,0 +1,14 @@
+{
+    "name": "daniel.rees/nre-ldb-php",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit-mock-objects": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Daniel Rees",
+            "email": "daniel.rees@autosport.com"
+        }
+    ],
+    "require": {}
+}
